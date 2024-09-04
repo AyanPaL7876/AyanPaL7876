@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayan pal</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AyanPaL7876&label=Profile%20views&color=0e75b6&style=flat" alt="AyanPaL7876" /> </p>
-
-
 - 🌱 I’m currently learning **NEXT.JS**
 
 - 💬 Ask me about **HTML, CSS, JS, TAILWIND, REACT**
@@ -21,6 +18,6 @@
 <br>
 
 
-<div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayanpal7876&show_icons=true&theme=github_dark&locale=en&bg_color=000000&layout=compact" alt="ayanpal7876" />
+<div align="center" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayanpal7876&show_icons=true&theme=github_dark&locale=en&bg_color=000000&layout=compact" alt="ayanpal7876" height="300" width="400"/>
 </div>
