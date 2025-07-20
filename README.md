@@ -2,25 +2,18 @@
 <h1 align="center">Hey there, I'm Ayan Pal 👋</h1>
 <h3 align="center">MCA Student | Full Stack Developer | Tech Explorer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=I+build+full-stack+web+apps+🧩;Lover+of+Clean+Code+and+UI+💡;Exploring+AI+%7C+Next.js+%7C+TS;Open+Source+%7C+Problem+Solver+💪;Let's+Connect+and+Collaborate+🤝" alt="Typing SVG" />
-</p>
-
-
-**[ayanpal.dev](https://ayanpal.dev)** — Explore my projects, resume, and more.
-
----
-
-### 🌟 About Me
+### About Me
 
 - 🎓 MCA @ Adamas University  
 - 🧠 Learning: `Next.js`, `AI`, `TypeScript`, `System Design`  
 - ⚡ Fun fact: I treat every side project like a startup 🚀  
 - 📬 Email me at: `ayanpal260@gmail.com`  
 
+**[ayanpal.dev](https://ayanpal.dev)** — Explore my projects, resume, and more.
+
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
@@ -32,7 +25,16 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Cpp](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 ---
 
 ### 🏆 Achievements & Certifications
@@ -69,7 +71,7 @@
 
 <p align="center"> 
 <a href="https://www.linkedin.com/in/ayan-pal-781513373/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
-<a href="mailto:ayanpal7876@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/> </a> 
+<a href="mailto:ayanpal260@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/> </a> 
 <a href="https://ayanpal.dev" target="_blank"> <img src="https://img.shields.io/badge/-Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white"/> </a> 
 <a href="https://leetcode.com/ayanpal24/" target="_blank">
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badge"/>
