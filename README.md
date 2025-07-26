@@ -49,8 +49,8 @@
 ### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyanPaL7876&show_icons=true&theme=radical&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyanPaL7876&theme=radical&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayanpal404&show_icons=true&theme=radical&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanpal404&theme=radical&hide_border=true" width="47%" />
 </p>
 
 <!-- <p align="center">
@@ -62,7 +62,7 @@
 ### 📚 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyanPaL7876&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=portfolio" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanpal404&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=portfolio" />
 </p>
 
 ---
