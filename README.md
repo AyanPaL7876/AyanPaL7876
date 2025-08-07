@@ -1,41 +1,46 @@
-<!-- Profile Header -->
-<h1 align="center">Hey there, I'm Ayan Pal 👋</h1>
-<h3 align="center">MCA Student | Full Stack Developer | Tech Explorer</h3>
+<!-- ════════════ 👤 PROFILE BANNER & SOCIAL LINKS ════════════ --> 
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fayanpal404adb3b.png?alt=media)
 
-### About Me
+<!-- ============================= -->
+<!-- 💡 Typing Animation Banner -->
+<!-- ============================== -->
+<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2000&pause=80&color=fff&center=true&multiline=true&repeat=false&width=700&height=117&lines=Hey+there%2C+I'm+Ayan+Pal+%F0%9F%91%8B;Full+Stack+Developer+%7C+Tech+Explorer;Learning+Next.js%2C+AI%2C+System+Design" alt="Typing SVG" />
+</a>
 
-- 🎓 MCA @ Adamas University  
-- 🧠 Learning: `Next.js`, `AI`, `TypeScript`, `System Design`  
-- ⚡ Fun fact: I treat every side project like a startup 🚀  
-- 📬 Email me at: `ayanpal260@gmail.com`  
+</div>
+<br/>
 
-**[ayanpal.dev](https://ayanpal.dev)** — Explore my projects, resume, and more.
+### 🚀 Tech Stack
 
----
+<div align="center" style="line-height: 1.8;">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Framer%20Motion-EF4B4B?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/-shadcn/ui-111827?style=for-the-badge&logo=shadcn&logoColor=white" />
 
-### Tech Stack
+</div>
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Cpp](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-<img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-<img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
----
 
 ### 🏆 Achievements & Certifications
 
@@ -44,8 +49,6 @@
 - 🎓 Completed Graduation with 8.91 CGPA
 - 🧪 Passionate about building: Dashboards, SaaS, Devtools
 
----
-
 ### 📈 GitHub Stats & Activity
 
 <p align="center">
@@ -53,11 +56,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanpal404&theme=radical&hide_border=true" width="47%" />
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyanPaL7876&theme=react-dark&hide_border=true" />
-</p> -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayanpal404&theme=react-dark&hide_border=true" />
+</p>
 
----
 
 ### 📚 Most Used Languages
 
@@ -65,7 +67,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanpal404&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=portfolio" />
 </p>
 
----
 
 ### 📬 Let's Connect
 
