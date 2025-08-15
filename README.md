@@ -1,20 +1,22 @@
-<!-- ════════════ 👤 PROFILE BANNER & SOCIAL LINKS ════════════ --> 
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fayanpal404adb3b.png?alt=media)
+<!-- Profile Header -->
+<h1 align="center">Hey there, I'm Ayan Pal 👋</h1>
+<h3 align="center">MCA Student | Full Stack Developer | Tech Explorer</h3>
 
-<!-- ============================= -->
-<!-- 💡 Typing Animation Banner -->
-<!-- ============================== -->
-<div align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2000&pause=80&color=fff&center=true&multiline=true&repeat=false&width=700&height=117&lines=Hey+there%2C+I'm+Ayan+Pal+%F0%9F%91%8B;Full+Stack+Developer+%7C+Tech+Explorer;Learning+Next.js%2C+AI%2C+System+Design" alt="Typing SVG" />
-</a>
+### About Me
 
-</div>
-<br/>
+- 🎓 MCA @ Adamas University  
+- 🧠 Learning: `Next.js`, `AI`, `TypeScript`, `System Design`, `GSAP`, `Three.js`  
+- ⚡ Fun fact: I treat every side project like a startup 🚀  
+- 📬 Email me at: `ayanpal260@gmail.com`  
 
-### 🚀 Tech Stack
+**[ayanpal.dev](https://ayanpal.dev)** — Explore my projects, resume, and more.
 
-<div align="center" style="line-height: 1.8;">
+---
+
+
+### Tech Stack
+
+<div align="" style="line-height: 1.8;">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -38,7 +40,6 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-Framer%20Motion-EF4B4B?style=for-the-badge&logo=framer&logoColor=white" />
   <img src="https://img.shields.io/badge/-shadcn/ui-111827?style=for-the-badge&logo=shadcn&logoColor=white" />
-
 </div>
 
 
@@ -54,10 +55,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayanpal404&show_icons=true&theme=radical&hide_border=true" width="47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanpal404&theme=radical&hide_border=true" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayanpal404&theme=react-dark&hide_border=true" />
 </p>
 
 
@@ -79,4 +76,9 @@
 </a>
  </p>
  
-### <p align="center"> 💖 Thank you for visiting my profile! <br /><br /> <img src="https://komarev.com/ghpvc/?username=AyanPaL7876&style=flat-square&color=blue" alt="AyanPal GitHub Profile Views" /> </p> 
+### <p align="center"> 💖 Thank you for visiting my profile! <br /><br /> <img src="https://komarev.com/ghpvc/?username=ayanpal404&style=flat-square&color=blue" alt="AyanPal GitHub Profile Views" /> </p> 
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayanpal404&theme=react-dark&hide_border=true" />
+</p>
